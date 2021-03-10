@@ -7,6 +7,6 @@ This simple, dynamic web app fetches the top 20 songs in the UK from the [iTunes
   1. Clone this repo into a folder of your choice.
   2. Navigate into the root folder and run the following command to install dependencies:
   ```npm install```
-  3. TO start the app run the following command: 
+  3. To start the app, run the following command: 
   ```npm run start```
   4. Enjoy the music or not...
