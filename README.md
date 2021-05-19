@@ -13,4 +13,4 @@ This simple, dynamic web app fetches the top 20 songs in the UK from the [iTunes
   3. To start the app, run the following command: 
   ```npm run start```
   4. Navigate to ```http://localhost:3000/``` in your chosen web browser.
-  4. Enjoy the music or not...
+  4. Enjoy the music if you like!
